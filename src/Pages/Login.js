@@ -24,8 +24,8 @@ const Login = (props) => {
     const context = useContext(AuthContext);
 
     const { handleChange, handleSubmit, values } = useForm(loginUserCallback, {
-        username: "Slay",
-        password: "Slayer8991",
+        username: "",
+        password: "",
     });
 
     const [errors, setErrors] = useState({});
