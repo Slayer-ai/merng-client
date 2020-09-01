@@ -1,0 +1,11 @@
+@import "../../../Sass/Vars.scss";
+.post__menu {
+    position: absolute;
+    right: 16px;
+    width: 260px;
+    background-color: $bg;
+    border: $border;
+    border-radius: $border__radius;
+    padding: 0.5rem;
+    z-index: 2;
+}
