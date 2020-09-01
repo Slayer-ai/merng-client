@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
         margin: theme.spacing(2),
         padding: theme.spacing(0, 0, 1, 2),
         width: "calc(100% - 2rem)",
-        backgroundColor: "#3a3b3c",
+        backgroundColor: "#CCC",
         color: "#ccc",
         wordBreak: "break-all",
         wordWrap: "break-all",
